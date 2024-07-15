@@ -5,7 +5,8 @@ Objective: Develop a comprehensive database management system enhanced with Al t
 
 Al Integration: Implement machine learning algorithms for predictive analytics. to forecast customer behavior and personalize marketing efforts, and use natural language processing (NLP) for automated customer service inquiries.
 
-ai_customer_data_management/
+ai_customer_data_management
+
 │
 ├── app.py
 ├── customer_data.db
