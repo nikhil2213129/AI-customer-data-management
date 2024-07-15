@@ -7,21 +7,21 @@ Al Integration: Implement machine learning algorithms for predictive analytics. 
 
 ai_customer_data_management/
 │
-├── app.py                  # Main Flask application
-├── customer_data.db        # SQLite3 database file
-├── requirements.txt        # Python dependencies
-├── Procfile                # Heroku deployment configuration
-├── templates/              # HTML templates for the Flask app
-│   └── index.html          # Main dashboard HTML file
-├── static/                 # Static files (CSS, JS, images)
+├── app.py
+├── customer_data.db
+├── requirements.txt
+├── Procfile 
+├── templates/             
+│   └── index.html          
+├── static/                 
 │   ├── css/
-│   │   └── styles.css      # Custom CSS styles
+│   │   └── styles.css      
 │   ├── js/
-│   │   └── scripts.js      # Custom JavaScript
+│   │   └── scripts.js      
 │   └── images/
-│       └── logo.png        # Example image
-├── data_preprocessing.py   # Data preprocessing script
-├── ml_model.py             # Machine learning model training and prediction script
-└── nlp_model.py            # Natural language processing script
+│       └── logo.png        
+├── data_preprocessing.py   
+├── ml_model.py             
+└── nlp_model.py           
 
 
